@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=clcd/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;customer{CustomerService.java[CustomerService" modifiers="513" timestamp="1648518085456"/>
+    <typeInfo handle="=clcd/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;employee{EmployeeService.java[EmployeeService" modifiers="513" timestamp="1648780667635"/>
+    <typeInfo handle="=clcd/D:\/Spring_Tool\/sts-4.14.0.RELEASE\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208\/jre\/lib\/jrt-fs.jar`java.base=/maven.pomderived=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/&lt;java.lang.reflect(Member.class[Member" modifiers="1537" timestamp="1648003221314"/>
+    <typeInfo handle="=clcd/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;member{MemberService.java[MemberService" modifiers="513" timestamp="1649212266022"/>
+    <typeInfo handle="=clcd/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;notice{NoticeService.java[NoticeService" modifiers="513" timestamp="1650249031526"/>
+    <typeInfo handle="=clcd/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;board{BoardService.java[BoardService" modifiers="513" timestamp="1650328735698"/>
+    <typeInfo handle="=anafor/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;web_user{WuserService.java[WuserService" modifiers="513" timestamp="1655260628877"/>
+</typeInfoHistroy>
